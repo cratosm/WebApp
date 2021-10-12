@@ -1,4 +1,13 @@
 # WebApp
 webApp deploy
-# Tuto
-Run : streamlit run webapp.py 
+## Tuto
+### Installations
+#### streamlit
+Please install streamlit by this way:
+```
+pip install streamlit
+```
+### Launch
+```
+streamlit run webapp.py 
+```
